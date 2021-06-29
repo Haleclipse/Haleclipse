@@ -1,5 +1,5 @@
 ### Hi there, I'm [Haleclipse!](https://haleclipse.org) 👋
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Haleclipse.readme)
 <a href="https://codesandbox.io/u/Haleclipse">
   <img align="left" alt="Haleclipse | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>

@@ -37,7 +37,7 @@
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,11 +48,11 @@
   <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=Haleclipse&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/pin/?username=Haleclipse&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<!--   <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/pin/?username=Haleclipse&repo=github-readme-stats&theme=radical" /> -->
+<!-- </a>     -->
+<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/pin/?username=Haleclipse&repo=anuraghazra.github.io&theme=radical" />
-</a>
+<!--   <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/pin/?username=Haleclipse&repo=anuraghazra.github.io&theme=radical" /> -->
+<!-- </a> -->

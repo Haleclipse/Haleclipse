@@ -1,4 +1,4 @@
-### Hi there, I'm [Haleclipse!](https://haleclipse.org) 👋
+### Hi there, I'm [Haleclipse](https://haleclipse.org)! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Haleclipse.readme)
 <br/>
 <a href="https://codesandbox.io/u/Haleclipse">

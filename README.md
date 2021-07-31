@@ -42,11 +42,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readmeservice.haleclipse.vercel.app/api?username=Haleclipse&show_icons=true&include_all_commits=true&theme=radical" alt="Haleclipse's github stats" />
+  <img align="right" src="https://readmeservice.haleclipse.vercel.app/api?username=Haleclipse&show_icons=true&include_all_commits=true&theme=radical" alt="Haleclipse's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=Haleclipse&layout=compact&theme=radical" />
+  <img align="right" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=Haleclipse&layout=compact&theme=radical" />
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
